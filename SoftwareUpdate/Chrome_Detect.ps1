@@ -8,7 +8,7 @@ installed version meets the approved security baseline.
 
 This script is designed for Intune Remediations and identifies
 devices that require an update to Google Chrome version
-150.0.7871.115 or later.
+151.0.7922.109 or later.
 
 .AUTHOR
 Mikio Nakamaru
