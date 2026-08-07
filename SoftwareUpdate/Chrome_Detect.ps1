@@ -16,13 +16,13 @@ Mikio Nakamaru
 .TARGET SOFTWARE
 Google Chrome
 
-.MINIMUM VERSION
-150.0.7871.115
+.MINIMUM VERSION Atualizado 7/8/26
+151.0.7922.109
 
 .VERSION
 1.0
 #>
-$MinVersion = [Version]"150.0.7871.115"
+$MinVersion = [Version]"151.0.7922.109"
 
 function Normalize-Version {
     param([string]$Raw)
